@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSHA64&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![cms_files_10224_1659462746Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3](https://user-images.githubusercontent.com/97411192/211181962-19c031bc-93a9-4406-8855-e3026fec2269.png)
+![cms_files_10224_1659462746Badge_Sharer_Alura_ChallengeOracleONE_2000x2000_V3](https://user-images.githubusercontent.com/97411192/211181962-19c031bc-93a9-4406-8855-e3026fec2269.pngwight=10px)
