@@ -12,6 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JSHA64&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JSHA64&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Insignia
 
 ![unnamed](https://user-images.githubusercontent.com/97411192/211182082-af7e4e85-f6cd-4b2d-b8a7-0e680ae74825.png)
