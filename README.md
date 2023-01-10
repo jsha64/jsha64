@@ -14,4 +14,4 @@
 
 ## 🏆 GitHub Insignia
 
-![unnamed](https://user-images.githubusercontent.com/97411192/211182082-af7e4e85-f6cd-4b2d-b8a7-0e680ae74825.png)
+<img width=300px heigth=300px src="https://user-images.githubusercontent.com/97411192/211182082-af7e4e85-f6cd-4b2d-b8a7-0e680ae74825.png">
