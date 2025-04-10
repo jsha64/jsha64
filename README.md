@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsha64&label=Profile%20views&color=0e75b6&style=flat" alt="jsha64" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **ReactJS, Python, Javascript entre otras...**
+- 🌱 Actualmente estoy aprendiendo **ReactJS, Javascript entre otras...**
 
 - 📫 How to reach me **jorgemerino743@gmail.com**
 
